@@ -1,13 +1,23 @@
-l = [12, 1, 4, 5, 2, 5, 7, 22]
+input_str = "always be coding"
+results = []
+already_visited = set()
 
 
-def sum_of_2_numbers(l, s):
-    d = {}
-    for n in l:
-        if s - n in d:
-            return "Numbers {0} and {1}".format(s - n, n)
-        else:
-            d[n] = 1
-    return "Not possible"
+def longest_substring_without_repeating_char(s):
+    print("called with " + s)
+    if len(s) != 1 and s not in already_visited:
+        already_visited.add(s)
+        if len(s) == len(set(s)):
+            print("Found")
+            results.append(s)
 
-print(sum_of_2_numbers(l,3))
+        longest_substring_without_repeating_char(s[1:])
+        longest_substring_without_repeating_char(s[:-1])
+
+
+
+print(longest_substring_without_repeating_char(input_str))
+print(max([(len(x), x) for x in results]))
+
+
+
