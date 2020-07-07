@@ -1,0 +1,18 @@
+{% extends 'music/base.html' %}
+{% block content %}
+{% if all_albums %}
+
+<ul>
+    {% for album in all_albums %}
+    <li><img src="{{ album.album_logo.url }}" class="img-responsive" height="50" width="50">
+        <a href="{% url 'music:detail' album.id %}">{{album.album_title}}</a>&nbsp;<a
+            href="{% url 'music:album-delete' album.id %}"><span class="glyphicon glyphicon-trash"></span></a></li>
+
+
+    {% endfor %}
+</ul>
+{% else %}
+<h2>No albums available to display </h2>
+{% endif %}
+
+{% endblock %}
