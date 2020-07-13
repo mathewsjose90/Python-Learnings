@@ -34,4 +34,4 @@ def longestPalindrome(s):
     return s[start_pos:end_pos + 1]
 
 
-print(longestPalindrome("cbbd"))
+print(longestPalindrome("cbbdMdbx"))

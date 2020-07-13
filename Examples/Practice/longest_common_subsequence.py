@@ -24,7 +24,7 @@ for i in range(1, len(string1) + 1):
         else:
             result_arr[i][j] = max(result_arr[i - 1][j], result_arr[i][j - 1])
 
-print("Length of longest common subsequence is : "+str(max([max(i) for i in result_arr])))
+print("Length of longest common subsequence is : " + str(max([max(i) for i in result_arr])))
 print(result_arr)
 # BackTrack for the longest string from the result array
 i = len(string1)

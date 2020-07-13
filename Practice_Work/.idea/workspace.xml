@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bee0889-ef21-4701-a531-74e3084ce948" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Examples/Leetcode/best_time_to_buy_and_sell_stocks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Leetcode/happy_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Leetcode/max_subarray_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/anagram_grouping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/equal_sum_sets_of_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/largest_group_of_colors_touching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/multiprocessing_manager_for_shared_communication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/prime_check_in_squareroot_of_n_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/rev_stack_using_another_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/reverse_character_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/reverse_string_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/reverse_string_using_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/single_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/singleton_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/singleton_with_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Practice/tower_hopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/errors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/errors/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/main/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/posts/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/static/profile_pics/default.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/create_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/errors/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/errors/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/errors/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/reset_request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/reset_token.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/templates/user_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/users/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/flaskblog/users/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/Flask Tutorials/Flask_Blog/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/first_and_last_pos_of_element_in_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Tutorials/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/Practice/longest_common_subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/Practice/longest_common_subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/Practice/longest_palindrome_substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/Practice/longest_palindrome_substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/Practice/maximum_sum_subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/Practice/maximum_sum_subarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/Practice/min_coin_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/Practice/min_coin_change.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examples/dummy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Examples/dummy.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="717" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practice_Work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice_Work" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice_Work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bee0889-ef21-4701-a531-74e3084ce948" name="Default Changelist" comment="" />
+      <created>1587050418955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587050418955</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="717" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

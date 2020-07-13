@@ -42,7 +42,7 @@ def min_coin_change_dp(n, changes, dp):
 def main():
     n = int(input("Enter the number :"))
     changes = list(map(int, input("Enter the changes available (Space separated) : ").split()))
-    print(min_coin_change(n, changes))
+    #print(min_coin_change(n, changes))
     dp = [-1] * (n + 1)
     dp[0] = 0
     print(min_coin_change_dp(n, changes, dp))
