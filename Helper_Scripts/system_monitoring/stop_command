@@ -1,0 +1,1 @@
+kill $(cat $HOME/system_monitoring/monitor_system_run.pid)

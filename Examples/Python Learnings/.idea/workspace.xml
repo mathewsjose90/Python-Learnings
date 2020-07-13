@@ -1,0 +1,1829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdd867ec-6fee-45e0-9685-e18ce0a0e47b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/test_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/different device layouts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/login modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/push and pull.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/responsive_images_and_video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/text_style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/toggle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part1/weels and alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/Carousel_Slideshows.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/Grid Layouts / Responsive Layouts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/Responsively Hiding Elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/bs/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/css styling with bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/drop_down_menus_and_input_groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/horozontal and veritical menus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/icons and wells.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/image_styling_and_contextual_colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/media_objects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/offset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/progress_bars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part2/tabbed panels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part3/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part3/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part3/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part3/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part3/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part3/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Part3/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fresh_tutorials/Beginners/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fresh_tutorials/Beginners/excel_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fresh_tutorials/Beginners/transactions_ex.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/templates/products/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/templates/products/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fresh_tutorials/Python/scrapping_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fresh_tutorials/Python/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/fork_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/query_to_db/query.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/query_to_db/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/query_to_db/run_query_in_parallel_and_store_result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1.src.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/ARTISTIC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/GPL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/INSTALL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/README-WINDOWS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/RELEASE-collectl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/UNINSTALL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/client.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/collectl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/collectl.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/colmux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/BuddyInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/CPUs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/ColmuxCPU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/ColmuxLustre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Data-brief.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Data-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Data-verbose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Disks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Documentation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Environmental.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Examples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Exceptions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Export.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/FAQ-collectl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/FileNaming.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Ganglia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Ganglia2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Ganglia3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Gexpr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Graphite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/HiResTime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Import.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Infiniband.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Inodes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/InputFiles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Interrupts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Logging.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Lustre.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Matrix.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Memory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Misc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Network.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/NfsInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/OpenStack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/OperationalModes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/OutputFiles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/OutputFormats.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Performance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Playback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Plotfiles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Process.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/RunningAsAService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/SlabInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/SlowProc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Socket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Sockets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Startup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/TheMath.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Tutorial-Lustre.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/Tutorial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/WhySummary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/colmux.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/slub.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/docs/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/envrules.std" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/formatit.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/gexpr.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/graphite.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/hello.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/initd/collectl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/initd/collectl-debian" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/initd/collectl-generic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/initd/collectl-suse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/lexpr.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/man1/collectl.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/man1/colmux.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/misc.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/proctree.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/service/collectl.service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/statsd.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/vmstat.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/vmsum.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/collectl-4.3.1/vnet.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0.src.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/ARTISTIC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/FAQ-colplot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/GPL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/INSTALL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/RELEASE-colplot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/UNINSTALL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/colplot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/colplot-apache.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/colplot-help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/colplot.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/colplotlib.defs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/colplotlib.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/man1/colplot.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/oneperpage.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/client-20061010.cpu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/client-20061010.dsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/client-20061010.net" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/client-20061010.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/hadesn2-20081204.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/hadesn2-20081204.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/ibdln269-20070125.cpu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/ibdln269-20070125.dsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/ibdln269-20070125.net" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/ibdln269-20070125.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/server-20061010.cpu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/server-20061010.dsk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/server-20061010.net" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/plotfiles/server-20061010.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/colplot-5.0.0/tiny.ph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/BUGS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/ChangeLog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/Copyright" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/FAQ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/GNUmakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/INSTALL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/INSTALL.gnu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/Makefile.maint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/NEWS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/PATCHLEVEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/PGPKEYS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/RELEASE_NOTES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/TODO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/aclocal.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/compile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config.hin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/MacOSX/PkgResources/English.lproj/InstallationCheck.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/MacOSX/PkgResources/InstallationCheck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/MacOSX/PkgResources/License.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/MacOSX/PkgResources/postinstall" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/MacOSX/ReadMe.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/MacOSX/createdist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/MacOSX/gnuplot.packproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/Makefile.am.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/buildvms.com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/config.cyg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/config.dj2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/config.mgw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/config.nt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/config.os2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/config.oww" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/config.wc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/cygwin/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/djconfig.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/make_vms.com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/makefile.cyg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/makefile.dj2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/makefile.emx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/makefile.g" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/makefile.os2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/makefile.vms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/makefile.wc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/mingw/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/msvc/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/watcom/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/config/watcom/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/configure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/configure.ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/configure.vms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/3.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/GM1_bonds.r3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/GM1_sugar.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/Makefile.am.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/airfoil.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/all.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/animate.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/animate2.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/approximate.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/armillary.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/array.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/arrowstyle.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/arrowstyle.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/asciimat.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/autoscale.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/azimuth.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/barchart_art.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/battery.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/big_peak.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/binary.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/bins.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/bivariat.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/bldg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/blutux.rgb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/bolditalic.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/borders.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/boxclusters.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/boxplot.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/break_continue.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/callargs.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/candlesticks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/candlesticks.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/cerf.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/charset.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/circles.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/cities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/cities.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/clip14in.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/clipobject.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/colorscheme.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/colorwheel.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/complex_trig.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/contours.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/controls.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/ctg-y2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/custom_key.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/dashcolor.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/dashtypes.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/datastrings.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/delaunay-edges.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/demo.edf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/density.fnc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/dgrid3d.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/discrete.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/electron.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/ellipse.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/ellipses.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/ellipses_style.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/empty-circles.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/energy_circles.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/enhanced_utf8.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/enhancedtext.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/epslatex.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/errorbars.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/fenceplot.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/fillbetween.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/fillcrvs.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/fillstyle.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/finance.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/finance.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/fit.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/fit3.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/fitmulti.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/fontfile.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/fontfile_latex.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/gantt.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/gen-random.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/glass.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/gnu-valley" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/gnuplot.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/gnuplot.rot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/gpdemos.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/heatmaps.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/hemisphr.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/hexa.fnc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/hidden.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/hidden2.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/histerror.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/histograms.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/histograms2.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/histopt.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/Makefile.canvas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/Makefile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/canvas_utf8.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/gnuplot_demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/index.canvas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/index.save" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/index.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/linkedaxes.1.js.orig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/linkedaxes.html.orig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/linkedaxes.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/mouseable.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/mousebox.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/webify.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/webify_canvas.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/html/webify_svg.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/hypertext.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/image.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/image2.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/imageNaN.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/immigration.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/iterate.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/jitter.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/kdensity2d.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/key.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/klein.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/layout.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/lcdemo.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/lena-keypoints.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/lena.rgb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/line.fnc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/lines_arrows.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/linkedaxes.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/macros.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/margins.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/matrix_every.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/matrix_index.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/mgr.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/molecule.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/moli3.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/monotonic_spline.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/mouselab_1.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/mouselab_2.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/mouselabels.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/mousevariables.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/multiaxis.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/multimsh.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/multipalette.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/multiplt.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/named_var.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/nokey.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/nonlinear1.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/nonlinear2.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/nonlinear3.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/nonlinear4.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/nonlinear5.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/nonlinear6.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/optimize.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/orbital_elements.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/orbits.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/parallel.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/param.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/piecewise.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/plugin/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/plugin/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/plugin/demo_plugin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/plugin/gnuplot_plugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/plugin/plugin.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/pm3d.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/pm3d_lighting.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/pm3dcolors.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/pm3dgamma.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/pointsize.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/polar.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/poldat.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/prob.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/prob2.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/probably_tux.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/rainbow.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/random-points" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/random.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/rectangle.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/reflect.fnc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/rgb_variable.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/rgb_variable.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/rgba_lines.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/rgbalpha.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/rotate_labels.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/rugplot.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/running_avg.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/sampling.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/scatter.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/scatter2.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/scatter2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/silver.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/simple.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/sine.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/singulr.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/smooth.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/smooth_splines.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/solar_params.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/solar_path.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/sound.par" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/sound2.par" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/soundvel.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/special_chars.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/spline.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/srl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/start.par" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/stat.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/stats.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/steps.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/steps.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/stringvar.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/surface1.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/surface2.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/table.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/textbox.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/textcolor.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/textrotate.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/tics.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/timedat.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/timedat.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/transparent.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/transparent_solids.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/triangle.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/ttics.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/using.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/using.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/using.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/utf8.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/varcolor.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/vector.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/violinplot.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/volatile.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/whale.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/world.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/world.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/world.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/world2.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/demo/zerror.dem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/depcomp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/README.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/checkdoc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/doc2gih.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/doc2hlp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/doc2ipf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/doc2ms.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/doc2rnh.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/doc2rtf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/doc2tex.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/doc2texi.el" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/doc2x.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/faq-ja.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/figure_missing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/gnuplot-ja.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/gnuplot.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/gnuplot.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/plotstyles.gnu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/psdoc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/psdoc/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/psdoc/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/psdoc/ps_file.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/psdoc/ps_fontfile_doc.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/psdoc/ps_guide.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/psdoc/ps_symbols.gpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/term-ja.diff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/termdoc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/titlepag.ipf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/titlepag.ms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/titlepag.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/toc_entr.sty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/windows/doc2html.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/windows/wgnuplot.hhk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/windows/wgnuplot.hhp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/windows/wgnuplot.stp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/xref.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/docs/xref.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/install-sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/m4/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/m4/Makefile.am.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/m4/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/m4/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/m4/alpha.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/m4/apple.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/m4/beos.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/m4/msdos.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/m4/pkg.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/man/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/man/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/man/gnuplot-ja.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/man/gnuplot.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/missing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/mkinstalldirs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/Gnuplot.app-defaults" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/LaTeX/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/LaTeX/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/LaTeX/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/LaTeX/gnuplot-lua-tikz-common.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/LaTeX/gnuplot-lua-tikz.sty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/LaTeX/gnuplot-lua-tikz.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/LaTeX/gnuplot.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/LaTeX/t-gnuplot-lua-tikz.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/colors_default.gp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/colors_mono.gp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/colors_podo.gp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/share/gnuplotrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/GNUmakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/Makefile.maint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/alloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/alloc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/axis.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/axis.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/GPApp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/GPApp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/GPBitmap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/GPBitmap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/GPView.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/GPView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/GPWindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/GPWindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/XStringList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/XStringList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/beos/constants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/bf_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/bitmap.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/bitmap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/boundary.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/boundary.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/breaders.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/breaders.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/color.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/color.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/command.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/command.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/contour.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/contour.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/datablock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/datablock.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/datafile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/datafile.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/dynarray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/dynarray.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/eval.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/eval.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/external.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/external.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/fit.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/fit.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/gadgets.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/gadgets.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/genopt.com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/getcolor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/getcolor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/gnuplot.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/gp_hist.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/gp_time.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/gp_types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/gpexecute.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/gpexecute.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/gplt_x11.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/gplt_x11.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/graph3d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/graph3d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/graphics.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/graphics.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/help.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/help.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/hidden3d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/hidden3d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/history.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/internal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/internal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/interpol.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/interpol.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/jitter.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/jitter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/libcerf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/libcerf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/linkopt.vms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/makefile.all" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/makefile.awc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/matrix.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/matrix.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/misc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/misc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/mouse.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/mouse.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/mousecmn.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/multiplot.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/multiplot.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/national.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/4allterm.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/dialogs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/dialogs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/gclient.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/gnuplot.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/gnupmdrv.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/gnupmdrv.def" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/gnupmdrv.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/gnupmdrv.ipf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/gnupmdrv.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/pm_msgs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/print.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/ptrcross.ptr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/rotating.ptr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/os2/scaling.ptr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/parse.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/parse.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/plot.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/plot.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/plot2d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/plot2d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/plot3d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/plot3d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/pm3d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/pm3d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplot.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotApplication.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotApplication.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotEvent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotEvent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotInstance.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotInstance.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotItems.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotItems.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotResource.qrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotScene.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotScene.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotSettings.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotWidget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotWidget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotWindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/QtGnuplotWindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/README.Qt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/embed_example.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/embed_example.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/gnuplot_qt.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/application-pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/configure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/document-export.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/document-print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/edit-paste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/icon32x32.xpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/image-bmp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/image-x-eps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/view-refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/zoom-in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/zoom-original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/images/zoom-out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/po/qtgnuplot_fr.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/po/qtgnuplot_ja.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/qt_conversion.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/qt_term.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/qtterminal/qt_term.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/readline.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/readline.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/save.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/save.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/scanner.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/scanner.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/set.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/setshow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/show.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/specfun.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/specfun.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/standard.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/standard.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/stats.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/stats.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/stdfn.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/stdfn.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/strftime.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/syscfg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/tables.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/tables.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/tabulate.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/tabulate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/template.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/term.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/term.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/term_api.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/time.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/unset.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/util.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/util3d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/util3d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/variable.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/variable.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/version.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/version.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/vms.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/README.win-ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/grpicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/pgnuplot.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/rotating.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/scaling.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/screenbuf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/screenbuf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/texticon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wcommon.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wd2d.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wd2d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgdiplus.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgdiplus.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgnuplib.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgnuplib.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgnuplib.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgnuplot-ja.mnu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgnuplot.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgnuplot.exe.manifest64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgnuplot.mnu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgnuplot.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wgraph.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/winmain.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/winmain.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wmenu.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wpause.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wprinter.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wredirect.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wresourc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wtext.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/win/wtext.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/README.embedding" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/autoscale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/autoscale_png.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/clipboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/clipboard_png.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/config_png.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/grid_png.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/help_png.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/nextzoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/nextzoom_png.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/previouszoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/previouszoom_png.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/replot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/png/replot_png.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/xpm/cross.xpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/xpm/icon16x16.xpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/xpm/icon32x32.xpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/xpm/icon64x64.xpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/xpm/notfound.xpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/xpm/right.xpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/xpm/rotate.xpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/bitmaps/xpm/size.xpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/gp_cairo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/gp_cairo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/gp_cairo_helpers.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/gp_cairo_helpers.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/wxt_gui.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/wxt_gui.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/wxterminal/wxt_term.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/src/x11.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/Makefile.am.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/8859-1.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/8859-15.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/8859-2.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/8859-9.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/aglfn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/cp1250.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/cp1251.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/cp1252.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/cp437.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/cp850.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/cp852.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/koi8r.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/koi8u.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/prologue.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/prologues.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/ps_header.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/unicode_big.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/unicode_maps.README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/unicode_small.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/PostScript/utf-8.ps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/ai.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/aquaterm.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/be.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/caca.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/cairo.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/canvas.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/cgm.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/context.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/corel.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/debug.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/djsvga.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/driver.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/dumb.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/dxf.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/dxy.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/eepic.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/emf.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/emxvga.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/epson.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/estimate.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/excl.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/fig.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/gd.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/ggi.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/gpic.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/grass.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/hp26.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/hp2648.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/hp500c.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/hpgl.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/hpljii.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/hppj.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/imagen.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/impcodes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/canvas_help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/canvasmath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/canvastext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/gnuplot_common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/gnuplot_dashedlines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/gnuplot_mouse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/gnuplot_mouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/gnuplot_svg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/nextzoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/previouszoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/return.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/js/textzoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/kyo.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/latex.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/linux.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/lua.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/lua/NEWS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/lua/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/lua/TODO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/lua/gnuplot-tikz.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/metafont.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/metapost.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/mif.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/object.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/pbm.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/pc.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/pdf.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/pm.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/post.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/post.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/pslatex.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/pstricks.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/qms.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/qt.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/regis.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/sixel.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/svg.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/t410x.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/tek.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/texdraw.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/tgif.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/tkcanvas.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/tpic.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/vgagl.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/vws.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/win.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/write_png_image.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/wxt.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/x11.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/term/xlib.trm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/Makefile.am.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/eg1.plt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/eg2.plt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/eg3.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/eg3.plt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/eg4.plt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/eg5.plt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/eg6.plt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/eg7.plt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/header.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/linepoin.plt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/makefile.dst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/test.plt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/test_tikz.plt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/tutorial/tutorial.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/win/Copyright-ja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/win/README-Windows-ja.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/win/README-Windows.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/win/gnuplot.iss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/gnuplot-5.2.5/win/modpath.iss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/hosts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/manage_system_monitoring.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/monitor_system.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.140.23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.140.25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.140.27" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.66.216" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.66.217" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.66.218" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.66.219" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.66.221" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.66.225" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.129" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.130" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.131" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.132" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.133" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.182" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.209" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.210" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.211" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.212" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.213" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.214" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.215" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.216" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/ssh_out/198.18.85.218" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/start_command" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Helper_Scripts/system_monitoring/stop_command" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Projects/.idea/Django_Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Projects/.idea/Django_Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_Projects/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Projects/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy.py" beforeDir="false" afterPath="$PROJECT_DIR$/dummy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy2.py" beforeDir="false" afterPath="$PROJECT_DIR$/dummy2.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1163157139">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="42" />
+          <entry key="jpg" value="4" />
+          <entry key="py" value="90" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="42" />
+          <entry key="Image" value="4" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="90" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="284" />
+          <entry key="css" value="130" />
+          <entry key="html" value="6084" />
+          <entry key="py" value="14928" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="130" />
+          <entry key="HTML" value="6084" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="15212" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="883837898">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="5" />
+          <entry key="csv" value="1" />
+          <entry key="html" value="30" />
+          <entry key="map" value="1" />
+          <entry key="py" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="30" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="2734" />
+          <entry key="css" value="578" />
+          <entry key="html" value="11007" />
+          <entry key="py" value="7497" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="578" />
+          <entry key="HTML" value="11007" />
+          <entry key="Python" value="10231" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Python/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Python/scrapping_ex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>favourite</find>
+      <find>date</find>
+      <find>.jum</find>
+      <find>get</find>
+      <find>theCarousel</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Bootstrap/tables.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/responsive_images_and_video.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/navbar.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/toggle.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/weels and alerts.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/sidebar.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/sidebar.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/index.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/different device layouts.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/push and pull.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/login model.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/login modal.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/intro.html.py" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/intro.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/Grid Layouts / Responsive Layouts.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/Responsively Hiding Elements.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/offset.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/css styling with bootstarp.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/css styling with bootstrap.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/Carousel_Slideshows.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/icons.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/icons and wells.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/image_styling_and_contextual_colors.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/image_styling_and_contextual_colors.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/drop_down_menus_and_input_groups.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/horozontal and veritical menus.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/tabbed panels.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/progress_bars.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part2/media_objects.html" />
+        <option value="$PROJECT_DIR$/Bootstrap/Part3/index.html" />
+        <option value="$PROJECT_DIR$/Advanced/test_problem.py" />
+        <option value="$PROJECT_DIR$/Practice/fork_example.py" />
+        <option value="$PROJECT_DIR$/dummy2.py" />
+        <option value="$PROJECT_DIR$/example.py" />
+        <option value="$PROJECT_DIR$/dummy.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Beginners/excel_example.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Beginners/app.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/pyshop/urls.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/urls.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/pyshop/settings.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/models.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/admin.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/views.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/templates/products/index.html" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/templates/products/base.html" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/django_project/blog/views.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/django_project/blog/urls.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Django/django_project/django_project/urls.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Python/scrapping_ex.py" />
+        <option value="$PROJECT_DIR$/Fresh_tutorials/Python/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="816" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python Learnings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Learnings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Learnings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="Fresh_tutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Learnings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Learnings" type="462c0819:PsiDirectoryNode" />
+              <item name="Fresh_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Learnings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fresh_tutorials/Beginners" />
+      <recent name="$PROJECT_DIR$/Bootstrap/Part3" />
+      <recent name="$PROJECT_DIR$/Bootstrap/Part2/bs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fresh_tutorials/Python" />
+      <recent name="$PROJECT_DIR$/Bootstrap/Part2" />
+      <recent name="$PROJECT_DIR$/Bootstrap/Part1" />
+      <recent name="$PROJECT_DIR$/Bootstrap/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fresh_tutorials/Beginners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fresh_tutorials/Beginners/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excel_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fresh_tutorials/Beginners" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fresh_tutorials/Beginners/excel_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scrapping_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fresh_tutorials/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fresh_tutorials/Python/scrapping_ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fresh_tutorials/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fresh_tutorials/Python/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in dummy2.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="Python Learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/dummy2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python Learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fresh_tutorials/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Fresh_tutorials/Python/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in dummy2.py" />
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.excel_example" />
+      <item itemvalue="Python tests.pytest in test.py" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.scrapping_ex" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.scrapping_ex" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python tests.pytest in test.py" />
+        <item itemvalue="Python.excel_example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdd867ec-6fee-45e0-9685-e18ce0a0e47b" name="Default Changelist" comment="" />
+      <created>1535611227192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535611227192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_problem_py - 2020.03.30 at 15h 15m 31s.xml">
+      <configuration name="pytest in test_problem.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_problem_py - 2020.03.30 at 15h 16m 16s.xml">
+      <configuration name="pytest in test_problem.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_dummy2_py - 2020.04.09 at 16h 02m 05s.xml">
+      <configuration name="pytest in dummy2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_dummy2_py - 2020.04.09 at 16h 02m 40s.xml">
+      <configuration name="pytest in dummy2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_dummy2_py - 2020.04.09 at 16h 03m 42s.xml">
+      <configuration name="pytest in dummy2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_dummy2_py - 2020.04.09 at 16h 04m 09s.xml">
+      <configuration name="pytest in dummy2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_py - 2020.07.04 at 13h 50m 10s.xml">
+      <configuration name="pytest in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_py - 2020.07.04 at 13h 52m 52s.xml">
+      <configuration name="pytest in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_py - 2020.07.04 at 13h 52m 59s.xml">
+      <configuration name="pytest in test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="816" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23819591" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287483" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3301105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917126" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32872927" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32872927" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_Projects/website/companies/models.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Django_Projects/website/companies/admin.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part1/responsive_images_and_video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part1/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part1/toggle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="41" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part1/weels and alerts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="46" column="10" lean-forward="true" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part1/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part1/sidebar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-370">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part1/different device layouts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part1/push and pull.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part1/login modal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="23" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="11" selection-end-line="45" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/Grid Layouts / Responsive Layouts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="40" column="28" selection-end-line="71" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/Responsively Hiding Elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-end-line="55" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/offset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="55" column="24" lean-forward="true" selection-end-line="70" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/bs/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46847">
+          <caret line="4820" column="19" lean-forward="true" selection-start-line="4820" selection-start-column="19" selection-end-line="4820" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/css styling with bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="16" lean-forward="true" selection-end-line="75" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/Carousel_Slideshows.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="103" column="8" lean-forward="true" selection-end-line="121" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/icons and wells.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="28" column="1" lean-forward="true" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/image_styling_and_contextual_colors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="29" column="8" lean-forward="true" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/drop_down_menus_and_input_groups.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="90" column="6" lean-forward="true" selection-end-line="120" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/horozontal and veritical menus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="31" column="12" lean-forward="true" selection-end-line="78" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/tabbed panels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-end-line="59" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/progress_bars.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part2/media_objects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part3/css/bootstrap-theme.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part3/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Part3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="278" column="10" selection-start-line="278" selection-start-column="10" selection-end-line="278" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/test_problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/fork_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_pytest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Beginners/excel_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Beginners/app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/pyshop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-518">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/pyshop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/templates/products/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/PyShop/pyshop/products/templates/products/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/django_project/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="75" column="44" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/django_project/django_project/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Django/django_project/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Python/test_scrap.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Python/scrapping_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_tutorials/Python/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
