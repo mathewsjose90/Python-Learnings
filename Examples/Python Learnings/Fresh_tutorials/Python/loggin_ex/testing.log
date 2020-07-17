@@ -1,0 +1,30 @@
+2020-07-13 19:17:28,367:__main__:Tried division by Zero
+Traceback (most recent call last):
+  File "/Users/mathewsjose/Desktop/Python/Personnel_GIT/Python-Learnings/Examples/Python Learnings/Fresh_tutorials/Python/loggin_ex/logging_advanced.py", line 40, in div
+    res = x / y
+ZeroDivisionError: division by zero
+2020-07-13 19:20:22,284:__main__:Tried division by Zero
+Traceback (most recent call last):
+  File "/Users/mathewsjose/Desktop/Python/Personnel_GIT/Python-Learnings/Examples/Python Learnings/Fresh_tutorials/Python/loggin_ex/logging_advanced.py", line 43, in div
+    res = x / y
+ZeroDivisionError: division by zero
+2020-07-13 19:21:40,817:__main__:Tried division by Zero
+Traceback (most recent call last):
+  File "/Users/mathewsjose/Desktop/Python/Personnel_GIT/Python-Learnings/Examples/Python Learnings/Fresh_tutorials/Python/loggin_ex/logging_advanced.py", line 44, in div
+    res = x / y
+ZeroDivisionError: division by zero
+2020-07-13 19:22:12,757:__main__:Tried division by Zero
+Traceback (most recent call last):
+  File "/Users/mathewsjose/Desktop/Python/Personnel_GIT/Python-Learnings/Examples/Python Learnings/Fresh_tutorials/Python/loggin_ex/logging_advanced.py", line 44, in div
+    res = x / y
+ZeroDivisionError: division by zero
+2020-07-13 19:22:24,348:__main__:Tried division by Zero
+Traceback (most recent call last):
+  File "/Users/mathewsjose/Desktop/Python/Personnel_GIT/Python-Learnings/Examples/Python Learnings/Fresh_tutorials/Python/loggin_ex/logging_advanced.py", line 44, in div
+    res = x / y
+ZeroDivisionError: division by zero
+2020-07-13 19:22:33,565:__main__:Tried division by Zero
+Traceback (most recent call last):
+  File "/Users/mathewsjose/Desktop/Python/Personnel_GIT/Python-Learnings/Examples/Python Learnings/Fresh_tutorials/Python/loggin_ex/logging_advanced.py", line 44, in div
+    res = x / y
+ZeroDivisionError: division by zero
